@@ -1,4 +1,7 @@
 function beatHit()
 {
-applyEvent(5, "characterSwitchBf", "dad");
+if(endingSong == true)
+{
+newHSText(100, 80, "hi", 30)
+}
 }
