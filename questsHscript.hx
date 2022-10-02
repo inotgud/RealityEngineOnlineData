@@ -1,4 +1,3 @@
-function create()
-{
+function create(){
 trace("AAAAAAA");
 }
