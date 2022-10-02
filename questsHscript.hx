@@ -1,4 +1,4 @@
 function beatHit()
 {
-print("test");
+trace("test");
 }
