@@ -1,4 +1,4 @@
-function beatHit2()
+function beatHit()
 {
 
 }
