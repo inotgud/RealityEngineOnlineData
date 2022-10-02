@@ -1,5 +1,4 @@
-
- function beatHit2()
+function beatH()
 {
 
 }
