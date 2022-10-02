@@ -1,4 +1,4 @@
-function create()
+function beatHit()
 {
-newHSText(100, 80, "hi", 30)
+ applyEvent(15, "playAnimDad", "idle")
 }
