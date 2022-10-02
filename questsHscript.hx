@@ -1,4 +1,7 @@
 function endsong()
 {
-trace("SONG ENDED");
+if(SONG.songName == "Bopeebo")
+{
+FlxG.save.data.bopeeboquest = "true";
+}
 }
