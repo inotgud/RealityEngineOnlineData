@@ -1,4 +1,4 @@
-function create()
+function beatHit()
 {
 
 }
