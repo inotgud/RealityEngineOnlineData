@@ -1,4 +1,4 @@
-function beatHit()
+function create()
 {
-trace("test");
+newHSText(100, 80, "hi", 30)
 }
