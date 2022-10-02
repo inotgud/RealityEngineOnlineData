@@ -1,4 +1,4 @@
-function endsong()
+function beatHit()
 {
-newHSText(100, 80, "hi", 30)
+trace("test");
 }
