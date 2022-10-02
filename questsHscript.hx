@@ -1,4 +1,4 @@
-function endsong2()
+function endsong()
 {
 
 }
