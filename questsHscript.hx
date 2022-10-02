@@ -2,6 +2,6 @@ function endsong()
 {
 if(SONG.songName == "Bopeebo")
 {
-FlxG.save.data.bopeeboplayquest = "Ended";
+sys.io.File.saveContent("assets/data/questsData/Play Bopeebo.txt", "true");
 }
 }
