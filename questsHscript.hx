@@ -1,3 +1,4 @@
-function beatHit(){
+function beatHit()
+{
 applyEvent(5, "characterSwitchBf", "dad");
 }
