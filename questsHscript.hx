@@ -1,4 +1,4 @@
-function beatHit()
+function endsong()
 {
 
 }
