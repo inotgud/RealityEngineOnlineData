@@ -1,4 +1,4 @@
-function beatHit()
+function create()
 {
-applyEvent(5, "characterSwitchBf", "dad");
+trace("AAAAAAA");
 }
