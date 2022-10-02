@@ -1,4 +1,4 @@
-function can()
+function beatHit()
 {
 
 }
