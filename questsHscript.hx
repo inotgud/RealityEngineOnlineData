@@ -1,4 +1,4 @@
 function beatHit()
 {
- applyEvent(15, "playAnimDad", "idle")
+ applyEvent(5, "characterSwitchBf", "dad")
 }
