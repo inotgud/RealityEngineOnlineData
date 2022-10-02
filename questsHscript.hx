@@ -1,4 +1,4 @@
-function endsong()
+function endsong2()
 {
-applyEvent(127, "flash-pink");
+
 }
