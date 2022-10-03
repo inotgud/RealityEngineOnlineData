@@ -1,4 +1,4 @@
-function create()
+function endsong()
 {
 if(SONG.songName == "bopeebo")
 {
