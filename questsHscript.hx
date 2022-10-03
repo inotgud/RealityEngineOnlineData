@@ -18,6 +18,6 @@ File.saveContent("assets/data/questsData/Blammed's Lights.txt", "Completed");
 if(SONG.songName == "stress")
 {
 completeQuest();
-File.saveContent("assets/data/questsData/You Are NOT Tankman.txt", "Completed");
+File.saveContent("assets/data/questsData/You are NOT Tankman.txt", "Completed");
 }
 }
